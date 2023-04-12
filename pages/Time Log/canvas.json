@@ -3885,15 +3885,13 @@
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Time Log",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+        "deleted": false
       }
     ],
     "userPermissions": [],
     "policies": [],
     "isHidden": false
   },
-  "deleted": false,
-  "gitSyncId": "641c47ea02da795e4e0bc7d7_641c48952fc67245ecd84537"
+  "gitSyncId": "641c47ea02da795e4e0bc7d7_641c48952fc67245ecd84537",
+  "deleted": false
 }

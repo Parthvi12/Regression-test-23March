@@ -20,7 +20,14 @@
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
-      "jsArguments": [],
+      "jsArguments": [
+        {
+          "name": "timeStart"
+        },
+        {
+          "name": "timeEnd"
+        }
+      ],
       "isAsync": false
     },
     "executeOnLoad": false,
@@ -37,7 +44,7 @@
     "policies": [],
     "userPermissions": []
   },
+  "gitSyncId": "641c47ea02da795e4e0bc7d7_641c4aec2fc67245ecd84566",
   "id": "Page1_JSObject1.timeDisplay",
-  "deleted": false,
-  "gitSyncId": "641c47ea02da795e4e0bc7d7_641c4aec2fc67245ecd84566"
+  "deleted": false
 }
