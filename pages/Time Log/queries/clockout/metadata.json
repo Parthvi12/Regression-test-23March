@@ -44,7 +44,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "gitSyncId": "641c47ea02da795e4e0bc7d7_2023-03-23T12:39:49.688801829Z",
   "id": "Time Log_clockout",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "641c47ea02da795e4e0bc7d7_2023-03-23T12:39:49.688801829Z"
 }

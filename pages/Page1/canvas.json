@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 78,
+          "version": 79,
           "minHeight": 1292,
           "useAutoLayout": true,
           "dynamicTriggerPathList": [],
@@ -60,7 +60,7 @@
               "key": "w64nmeptni",
               "flexVerticalAlignment": "start",
               "isDeprecated": false,
-              "rightColumn": 36.582338902147974,
+              "rightColumn": 36.58233890214797,
               "isDefaultClickDisabled": true,
               "widgetId": "6j10li2ono",
               "minWidth": 120,
@@ -94,12 +94,14 @@
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page1",
-        "deleted": false
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
       }
     ],
     "userPermissions": [],
     "policies": []
   },
-  "gitSyncId": "641c47ea02da795e4e0bc7d7_641c47ea02da795e4e0bc7d9",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "641c47ea02da795e4e0bc7d7_641c47ea02da795e4e0bc7d9"
 }

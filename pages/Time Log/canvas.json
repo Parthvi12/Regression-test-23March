@@ -4162,13 +4162,15 @@
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Time Log",
-        "deleted": false
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
       }
     ],
     "userPermissions": [],
     "policies": [],
     "isHidden": false
   },
-  "gitSyncId": "641c47ea02da795e4e0bc7d7_641c48952fc67245ecd84537",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "641c47ea02da795e4e0bc7d7_641c48952fc67245ecd84537"
 }

@@ -37,7 +37,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "gitSyncId": "641c47ea02da795e4e0bc7d7_641c4aec2fc67245ecd84560",
   "id": "Page1_JSObject1.selectEmployee",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "641c47ea02da795e4e0bc7d7_641c4aec2fc67245ecd84560"
 }

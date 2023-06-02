@@ -17,11 +17,6 @@
       "type": "AUTO"
     }
   },
-  "publishedApplicationDetail": {
-    "appPositioning": {
-      "type": "AUTO"
-    }
-  },
   "color": "#D9E7FF",
   "icon": "calender",
   "unpublishedAppLayout": {
