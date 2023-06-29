@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 79,
+          "version": 80,
           "minHeight": 1292,
           "useAutoLayout": true,
           "dynamicTriggerPathList": [],
@@ -46,7 +46,7 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 6.84375,
-              "leftColumn": 27.41766109785203,
+              "leftColumn": 27.417661097852033,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"
